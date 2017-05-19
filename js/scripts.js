@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Pucking", "Since 2017","You can find Parking space.", "You can obtain your time more.", "With Pucking","Welcome! Pucking"],    /* You can change the home section typing text from
+            strings: ["UPGA", "Since 2013","5월 20일은 홈커밍데이", "이 날을 벼르고 있었습니다.", "With UPGA","Welcome! Pucking HomeComing Day lol!"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
